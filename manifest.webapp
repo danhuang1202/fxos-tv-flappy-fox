@@ -1,0 +1,16 @@
+{
+  "name": "Flappy Fox",
+  "description":  "Flappy Fox",
+  "launch_path": "/index.html",
+  "type": "privileged",
+  "locales": {
+    "en-US": {
+      "name": "Flappy Fox",
+      "description": "Flappy Fox"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/img/icon_128.png"
+  }
+}
